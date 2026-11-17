@@ -54,3 +54,6 @@ run a sub-agent with /superpowers:requesting-code-review to check the code looks
 
 ## 13
 build the 5-question evaluation, show me each question before you start, write the questions into a file named "QUESTIONS.md"
+## 14
+תן דוגמא שממחישה את הרעיון
+שאלה 5 -בדקו מהו Mode Promiscuous. הסבירו מה הוא עושה, מתי הוא שימושי, ומה המשמעות מבחינת פרטיות ואבטחה ?
